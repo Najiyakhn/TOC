@@ -1,3 +1,4 @@
+implement NFA over alphabet {0,1} that accepts ll the string that contain substring 001
 #include <stdio.h>
 #include <string.h>
 
