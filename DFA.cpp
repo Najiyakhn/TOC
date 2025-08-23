@@ -1,3 +1,4 @@
+implement DFA that accepts strings with sub string 001 over [0,1]
 #include <stdio.h>
 #include <string.h>
 
