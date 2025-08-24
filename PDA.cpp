@@ -1,8 +1,8 @@
+implement a PDA for L={set of all strings over {0,1} such that equal number of 0's and 1's, acceptance by empty stack
 #include <stdio.h>
 #include <string.h>
 
 #define MAX 100
-
 char stack[MAX];
 int top = -1;
 
