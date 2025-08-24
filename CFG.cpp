@@ -1,3 +1,4 @@
+c program to implement CFG (Context free grammar)
 #include <stdio.h>
 #include <string.h>
 
